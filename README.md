@@ -45,13 +45,13 @@ Consulte as propostas de atividade no [roteiro pedagógico](docs/atividades.md).
 
 | Local | Conteúdo |
 | --- | --- |
-| `exemplos/halloween/` | Programas independentes para copiar para a calculadora |
+| `codes/halloween/` | Programas independentes para copiar para a calculadora |
 | `docs/` | Guias de execução, atividades, notas técnicas e publicação |
 | `assets/` | Prévia visual da coleção |
 | `tools/` | Verificação local dos programas no computador |
 | `.github/` | Modelos de contribuição e automação de verificação |
 
-Novas coleções podem ser acrescentadas dentro de `exemplos/`, mantendo o tema de Halloween nesta primeira pasta.
+Novas coleções podem ser acrescentadas dentro de `codes/`, mantendo o tema de Halloween nesta primeira pasta.
 
 ## Contribuições
 
