@@ -51,8 +51,6 @@ Consulte as propostas de atividade no [roteiro pedagógico](docs/atividades.md).
 | `tools/` | Verificação local dos programas no computador |
 | `.github/` | Modelos de contribuição e automação de verificação |
 
-Novas coleções podem ser acrescentadas dentro de `codes/`, mantendo o tema de Halloween nesta primeira pasta.
-
 ## Contribuições
 
 Sugestões de atividades, melhorias e relatos de execução são bem-vindos. Consulte [CONTRIBUTING.md](CONTRIBUTING.md). Ao relatar um problema, informe o modelo da calculadora, a versão do sistema, o arquivo utilizado e a mensagem exibida.
